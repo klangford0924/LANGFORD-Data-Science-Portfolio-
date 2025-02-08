@@ -29,3 +29,4 @@ st.title("WNBA Draft Picks Explorer")
 st.write("This app shows you all the WNBA Draft picks from 1997 till 2022. You can filter this list based on team, year, and overall draft pick")
 st.write(f"Showing results for **{team if team != 'All' else 'All Teams'}**, **{year if year != 'All' else 'All Years'}**, **{draft_pick if draft_pick != 'All' else 'All Picks'}**")
 st.dataframe(filtered_df)
+
