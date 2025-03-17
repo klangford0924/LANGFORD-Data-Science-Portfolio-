@@ -34,7 +34,7 @@ Columns represent different years and GDP-adjusted spending.
 Rows represent different government departments.
 
 ### **References**
-(https://github.com/rfordatascience/tidytuesday/tree/main/data/2019/2019-02-12)[Original Data set source]
-(https://vita.had.co.nz/papers/tidy-data.pdf) [Tidy Data Principles]
-https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf [Pandas Cheat Sheet]
+[Original Data set source](https://github.com/rfordatascience/tidytuesday/tree/main/data/2019/2019-02-12)
+[Tidy Data Principles](https://vita.had.co.nz/papers/tidy-data.pdf) 
+[Pandas Cheat Sheet] (https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
