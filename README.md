@@ -13,7 +13,7 @@ Welcome to my **Data Science Portfolio**, a curated collection of projects in In
 
 ---
 
-### **[WNBA Draft Picks Analysis](https://github.com/klangford0924/LANGFORD-Data-Science-Portfolio-/)**  
+### **[WNBA Draft Picks Analysis](https://github.com/klangford0924/LANGFORD-Data-Science-Portfolio-/basic_streamlit_app)**  
 - Built a Streamlit app to look at WNBA draft data over the last five years.  
 - Enabled users to filter data by team, year, and draft pick.  
 - Demonstrates my ability to create interactive data apps and work with structured sports data.  
