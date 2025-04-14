@@ -52,6 +52,7 @@ Just click the link below — no install needed!
    ```bash
    streamlit run app.py
    ```
+---
 ## 💬 Acknowledgements 
 - Datasets from scikit-learn
 - Powered by Streamlit
