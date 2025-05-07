@@ -11,21 +11,18 @@ Welcome to the **Interactive Machine Learning Explorer** — a beginner-friendly
 
 ## 🚀 Features
 
-✅ Upload your own CSV dataset  
-✅ Use built-in datasets:
-- 🌸 **Iris**
-- 🩺 **Diabetes**
-- 🎗️ **Breast Cancer**
+1. Upload your own CSV datase or use built-in datasets (🌸 Iris, 🩺 Diabetes, 🎗️ Breast Cancer)
 
-✅ Choose a machine learning model:
+2. Choose a machine learning model:
 - K-Nearest Neighbors (KNN)
 - Logistic Regression
 - Linear Regression
 
-✅ Select features and target column  
-✅ Tune hyperparameters like `k` and `max_iter`  
-✅ View evaluation metrics and interactive visualizations  
-✅ Inspect raw predictions
+3. Select features and target column
+   
+5. Tune hyperparameters like `k` and `max_iter`
+   
+7. View evaluation metrics and interactive visualizations  
 
 ---
 
