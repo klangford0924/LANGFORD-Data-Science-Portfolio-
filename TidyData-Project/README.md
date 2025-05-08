@@ -25,7 +25,7 @@ Clone the repository:
 ```bash
   git clone https://github.com/klangford0924/LANGFORD-Data-Science-Portfolio-/TidyData-Project.git
 ```
-#### ** 3. Then, open the Jupyter Notebook in your environment and run the code cells step by step.** 
+#### **3. Then, open the Jupyter Notebook in your environment and run the code cells step by step.** 
 
 ### 🧩 App Features
 Tidy Data Principles Applied:
@@ -46,7 +46,7 @@ Visualizations:
 ### 📚 References
 [Original Data set source](https://github.com/rfordatascience/tidytuesday/tree/main/data/2019/2019-02-12)
 [Tidy Data Principles](https://vita.had.co.nz/papers/tidy-data.pdf) 
-[Pandas Cheat Sheet] (https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+[Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
 
 
