@@ -35,5 +35,7 @@ Goal: Provide a hands-on platform to explore supervised machine learning models.
 Goal: Provide a hands-on platform to explore unsupervised machine learning models.
 - Created an intuitive Streamlit web app to apply ML algorithms like K-Means Clustering, PCA, MLUnsupervisedApp
 - Users can upload their own datasets, configure models, tune hyperparameters, and view visual evaluation metrics.
+- Demonstrates my ability to go beyond static analysis by deploying live, interactive tools, allowing users to engage with machine learning workflows directly.
+- Complements the rest of my portfolio by showcasing unsupervised learning alongside supervised models, emphasizing both the breadth of my ML knowledge and my capability in interactive Python development and deployment.
 - Skills: Model implementation, interactive UI, machine learning literacy.
 
