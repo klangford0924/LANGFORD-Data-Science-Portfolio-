@@ -31,7 +31,7 @@ Goal: Provide a hands-on platform to explore supervised machine learning models.
 - Skills: Model implementation, interactive UI,  machine learning literacy
 
 
-### **[Interactive Unsupervised Machine Learning Explorer (MLUnsupervisedStreamlitApp)]((https://github.com/klangford0924/LANGFORD-Data-Science-Portfolio-/tree/main/MLUnsupervisedApp)**  
+### **[Interactive Unsupervised Machine Learning Explorer (MLUnsupervisedStreamlitApp)](https://github.com/klangford0924/LANGFORD-Data-Science-Portfolio-/tree/main/MLUnsupervisedApp)**  
 Goal: Provide a hands-on platform to explore unsupervised machine learning models.
 - Created an intuitive Streamlit web app to apply ML algorithms like K-Means Clustering, PCA, MLUnsupervisedApp
 - Users can upload their own datasets, configure models, tune hyperparameters, and view visual evaluation metrics.
