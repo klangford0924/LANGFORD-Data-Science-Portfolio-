@@ -67,6 +67,6 @@ Or... skip the coding and launch the deployed version here:
 
 
 ### 📸 App Preview
-
+![Screenshot of Unsupervised ML Website](UnsuperviseMLWebsite.png)
 
 
